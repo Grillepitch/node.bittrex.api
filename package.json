@@ -1,6 +1,6 @@
 {
   "name": "node-bittrex-api",
-  "version": "0.8.4",
+  "version": "0.8.5",
   "description": "Node Bittrex API - asynchronous node.js library for the Bittrex API https://bittrex.com/",
   "keywords": [
     "btc",
@@ -21,17 +21,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dparlevliet/node.bittrex.api"
+    "url": "https://github.com/askmike/node.bittrex.api"
   },
   "main": "node.bittrex.api.js",
   "engines": {
     "node": ">=0.10"
   },
-  "bugs": {
-    "url": "https://github.com/dparlevliet/node.bittrex.api/issues",
-    "email": "david.parlevliet.github@gmail.com"
-  },
-  "homepage": "https://github.com/dparlevliet/node.bittrex.api",
   "scripts": {
     "test": "mocha"
   },
